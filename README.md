@@ -10,3 +10,5 @@ An example of [forge](https://github.com/bramtechs/forge) build system.
 > cd forge
 > forge.bat runrel
 ```
+
+After running ```forge.bat``` once, you can run ```forge.exe``` or ```forge/forge.exe``` instead.
