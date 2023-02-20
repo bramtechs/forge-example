@@ -1,6 +1,6 @@
 # forge-example
 
-A Raylib example of [forge](https://github.com/bramtechs/forge) build system.
+A [Raylib](https://github.com/raysan5/raylib) example of [forge](https://github.com/bramtechs/forge) build system.
 
 ## Cloning and compilation
 (with Cross Tools Command Prompt for Visual Studio)
