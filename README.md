@@ -8,5 +8,5 @@ An example of [forge](https://github.com/bramtechs/forge) build system.
 ```
 > git clone "https://github.com/bramtechs/forge-example" --recursive
 > cd forge
-> forge.exe runrel
+> forge.bat runrel
 ```
