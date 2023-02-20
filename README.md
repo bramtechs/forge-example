@@ -1,12 +1,12 @@
 # forge-example
 
-An example of [forge](https://github.com/bramtechs/forge).
+An example of [forge](https://github.com/bramtechs/forge) build system.
 
-## Compilation
+## Cloning and compilation
 (with Cross Tools Command Prompt for Visual Studio)
 
 ```
+> git clone "https://github.com/bramtechs/forge-example" --recursive
 > cd forge
-> forge.bat release
-> ..\build\Release\forge_example.exe
+> forge.exe runrel
 ```
